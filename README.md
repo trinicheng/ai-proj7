@@ -6,8 +6,8 @@ This lecture on feature engineering would fit just before the lectures on machin
 This repo includes a set of slides that would be used during lecture. Slides which ask for discussion expect ~5 minutes to be taken for students to exchange ideas. Resources are provided at the end for students to explore notebooks in their own time for practice. 
 
 In particular, these notebooks would be recommended for exploration: 
-*https://www.kaggle.com/learn/feature-engineering
-*https://www.kaggle.com/code/alexisbcook/scaling-and-normalization
+* https://www.kaggle.com/learn/feature-engineering
+* https://www.kaggle.com/code/alexisbcook/scaling-and-normalization
 
 For homework, students could be asked to work through a DataCamp course and submit a certificate of completion. For example: https://www.datacamp.com/courses/feature-engineering-for-machine-learning-in-python. Alternatively or additionally, this video may be interesting: https://www.youtube.com/watch?v=ft77eXtn30Q. 
 
